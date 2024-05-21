@@ -1,0 +1,43 @@
+ this command use to check the git version in system PS C:\Users\AC\Desktop> git --version
+output - git version 2.41.0.windows.1
+
+it define the user name and email in future when we use the guthub
+PS C:\Users\AC\Desktop> git config --global user.name "shubhlodhi" 
+PS C:\Users\AC\Desktop> git config --global user.email "shubh.singh9411@gmail.com" 
+
+for output of config file use below command
+PS C:\Users\AC\Desktop> git config --list
+
+for creating the clone of git file in our computer we use the command
+
+ git clone https://github.com/shubhlodhi/shubhlodhi.git
+
+this http link https://github.com/shubhlodhi/shubhlodhi.git came from the git respository code section part help to  create the clone
+
+we use "git status" command for checking the status of git folder
+
+suppose we check the file in git folder or system folder we use command "ls"
+
+or we check the hidden file on the folder use "ls -a"
+
+we want to go to specific folder use "cd "nameoffolder" "
+
+
+we also change the gut file on remote/website file from our local system 
+
+first we change the file through our system and then we run command
+
+" git add"  add means commit/save the update file on the git repo on GitHub 
+and check with the help git status command
+
+and in last we commit the change we apply in git file :
+using git commit -m "nameofcommituapply"
+
+by run this command the git file on GitHub will change successfully
+and in last run "gut push  origin main" command for lastly push the file to origin (git file) on main branche of git repo on GitHub
+
+now suppose we want to add new file from the system to git and it is not listed in git repo it shows sign of U means untraced
+
+create a new file in system folder and run "git add "nameoffile""
+
+

@@ -1,0 +1,28 @@
+version control in guthub:
+
+git version  control is used to keep the record of changes in project
+its go back in time and able to find the previous project suppose i want to change the project format by suing the previous version of project so i am able to access the previous project.
+
+and also help to show the changes between previous and current project and also define the
+changes we made in current project to its previous project.
+
+git version control also help to work multiple programmers in one project and also help to define the changes of programmers had made as coder you can see each other changes smoothly.
+
+
+
+keep different version:
+means suppose we want to create a different version of one project and in last merge them
+so in git control create different version of original version and merge them later for better production also see the other changes in versions
+
+versions means:
+like if you create a project every you do changes in a project it creates its own new file
+means create a new version
+
+it helps to check anytime compare this version and check what type we want in new version
+
+repostry is a collection of version we update.
+branches are the different version of main product
+
+version help to create a organising the code and secure the files and codes
+
+mostly used by writers , coders , designer.

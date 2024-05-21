@@ -1,0 +1,25 @@
+git is a version control system 
+where it stores all the properties of version control to organize the project 
+and also help for consistency and updating of projects.
+
+
+repository is where we store all the projects and file and also manage the files and projects
+
+in git also able to take snapshot.
+snapshot means it takes the exact state of your project at a particular moment
+
+it helps us to track the changes we done and when and easily navigate the different version of our projects
+
+explore our changes and previous projects version
+
+help to work together very easily , easily go and see the what changes we apply
+
+using git advantage is easily organize our project and protected our project
+
+also work in a collaborative environment
+
+git store the source code
+
+git repository hosted on github , GitLab , bitbucket
+
+git is commant line tool and GitHub is online service system
