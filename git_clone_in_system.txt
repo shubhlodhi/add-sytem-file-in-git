@@ -41,3 +41,7 @@ now suppose we want to add new file from the system to git and it is not listed 
 create a new file in system folder and run "git add "nameoffile""
 
 
+ nooooooooooooooooooooooooooooooooooo
+
+ yessssssssssssssss
+ 
